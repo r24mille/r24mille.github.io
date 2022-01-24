@@ -28,7 +28,7 @@ baseurl: "/reidmiller-name" # the subpath of your site, e.g. /blog
 url: "https://r24mille.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: "jekyll-dash"
+remote_theme: "bitbrain/jekyll-dash"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
