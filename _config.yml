@@ -80,6 +80,9 @@ dash:
     - url: https://github.com/r24mille
       icon: github-square
       color: purple
+    - url: https://www.linkedin.com/in/reidmillerdev
+      icon: linkedin-in
+      color: blue
   
   # wether the author box should be displayed or not
   show_author: true
