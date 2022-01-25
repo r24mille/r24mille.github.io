@@ -33,7 +33,7 @@ paginate: 5
 paginate_path: "/blog/page:num/"
 
 # for github pages custom domains:
-# include: [CNAME]
+include: [CNAME]
 
 dash:
   # the way how dates should be displayed
