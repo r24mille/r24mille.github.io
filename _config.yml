@@ -2,7 +2,7 @@ title: Reid Miller
 email: reid@reidmiller.name
 description: >- 
   Talk to me about the fuel sources used to generate electricity ⚡
-baseurl: "/reidmiller-name" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://r24mille.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Exclude from processing.
